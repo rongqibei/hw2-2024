@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Verdana, sans-serif; 
+    font-family: Arial, Verdana; 
     background-color: #000000; 
     color: #FFFFFF; 
     margin-top: 20px;
@@ -103,13 +103,6 @@ footer p {
     padding-top: 15px; 
     padding-right: 15px; 
     padding-bottom: 15px; 
+    padding-left: 0px;
 }
-  
-
-
-
-
-  
-
-
 
